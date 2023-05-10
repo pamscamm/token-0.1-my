@@ -1,1 +1,1 @@
-# token-0.1
+This contract defines a basic ERC20-compatible token with a name, symbol, decimals, total supply, and balance mapping. It also includes a transfer function that allows users to send tokens to other addresses.
